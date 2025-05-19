@@ -1,1 +1,38 @@
 
+Problem 1: Create a New Book Record
+('978-1-60129-456-2', 'To Kill a Mockingbird', 'Classic', 6.00, 'yes', 'Harper Lee', 'J.B. Lippincott & Co.')
+
+Problem 2: Update an Existing Member's Address as '125  Main st' and member id as 'C101'
+
+Problem 3: Delete a Record from the Issued Status Table where issued id = 'IS104'
+
+Problem 4: Retrieve All Books Issued by a Specific Employee with emp_id = 'E101'.
+
+Problem 5: List Members Who Have Issued More Than One Book.
+
+Problem 6: Create Summary Tables each book and total book_issued_cnt.
+
+Problem 7: Retrieve All Books in a Specific Category.
+
+Problem 8: Find Total Rental Income by Category.
+
+Problem 9: List Members Who Registered in the Last 180 Days.
+
+Problem 10: List Employees with Their Branch Manager's Name and their branch details.
+
+Problem 11: Create a Table of Books with Rental Price Above a Certain Threshold.
+
+Problem 12: Retrieve the List of Books Not Yet Returned.
+
+Problem 13: Identify Members with Overdue Books (assume a 30-day return period). Display the member's name, book title, issue date, and days overdue.
+
+Problem 14: Write a query to update the status of books in the books table to "available" when they are returned (based on entries in the return_status table).
+
+Problem 15: Create a query that generates a performance report for each branch, showing the number of books issued, the number of books returned, and the total revenue generated from book rentals.
+
+Problem 16: Create a new table active_members containing members who have issued at least one book in the last 6 months.
+
+Problem 17: Write a query to find the top 3 employees who have processed the most book issues. Display the employee name, number of books processed, and their branch.
+
+Problem 18: Write a query to identify members who have issued books more than twice with the status "damaged" in the books table. Display the member name, book title, and the number of times they've issued damaged books.    
+
