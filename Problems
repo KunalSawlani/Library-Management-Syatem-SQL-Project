@@ -2,9 +2,9 @@
 Problem 1: Create a New Book Record
 ('978-1-60129-456-2', 'To Kill a Mockingbird', 'Classic', 6.00, 'yes', 'Harper Lee', 'J.B. Lippincott & Co.')
 
-Problem 2: Update an Existing Member's Address as '125  Main st' and member id as 'C101'
+Problem 2: Update an Existing Member's Address as '125  Oak st' and member id as 'C103'
 
-Problem 3: Delete a Record from the Issued Status Table where issued id = 'IS104'
+Problem 3: Delete a Record from the Issued Status Table where issued id = 'IS121'
 
 Problem 4: Retrieve All Books Issued by a Specific Employee with emp_id = 'E101'.
 
@@ -35,4 +35,3 @@ Problem 16: Create a new table active_members containing members who have issued
 Problem 17: Write a query to find the top 3 employees who have processed the most book issues. Display the employee name, number of books processed, and their branch.
 
 Problem 18: Write a query to identify members who have issued books more than twice with the status "damaged" in the books table. Display the member name, book title, and the number of times they've issued damaged books.    
-
